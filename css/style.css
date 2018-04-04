@@ -20,13 +20,10 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-.header{
-	background:url(../images/bg.png);
-	min-height:819px;
-}
+
 .logo{
 	text-align: center;
-	padding: 2em 0 8em;
+	padding: 2em 0 1em;
 }
 /**** Slider *****/
 .slider_container{
