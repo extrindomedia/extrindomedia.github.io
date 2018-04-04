@@ -19,12 +19,7 @@ body a{
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
-}
-.log{
-	background-color: #FFF;
-	padding-top: 3em;
-}
-	
+}	
 /**** Slider *****/
 .slider_container{
 	width:100%;
@@ -186,7 +181,7 @@ p.bottom_desc{
 	float: left;
 }
 .portfolio{
-	border-top:4px solid #35353f;
+	border-top:4px solid #0B82C4;
 }
 /* Self Clearing Goodness */
 /*	Strip
