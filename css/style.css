@@ -20,11 +20,11 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-
-.logo{
-	text-align: center;
-	padding: 2em 0 1em;
+.log{
+	background-color: #FFF;
+	padding-top: 3em;
 }
+	
 /**** Slider *****/
 .slider_container{
 	width:100%;
@@ -152,7 +152,7 @@ p.bottom_desc{
 }
 .subMenu {
 	position: absolute;
-	z-index: 1000;
+	z-index: 100;
 	width: 100%;
 }
 .navbar-nav>li>a {
